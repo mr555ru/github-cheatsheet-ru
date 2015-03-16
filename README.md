@@ -74,3 +74,4 @@
 ##Самое главное
 
 [Книга в формате pdf](https://github.com/downloads/GArik/progit/progit.ru.pdf)
+[Второе издание на английском](https://github.com/progit/progit2/releases/download/2.0.0/progit-2.0.0.pdf)
