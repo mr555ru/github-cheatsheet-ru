@@ -64,7 +64,7 @@
 если пишешь не список, то текст, перенесенный
 на другую строку в результате будет в одной строке; для того, чтобы начать другую
 строку, нужно разделить два абзаца
-    
+
 пустой строкой
 
 ##Прочее
@@ -73,6 +73,6 @@
 
 ##Самое главное
 
-[Книга в формате pdf](https://github.com/downloads/GArik/progit/progit.ru.pdf)
+[Книга на русском, онлайн](http://git-scm.com/book/ru/v2)
 
-[Второе издание на английском](https://github.com/progit/progit2/releases/download/2.0.0/progit-2.0.0.pdf)
+[На английском, pdf](https://github.com/progit/progit2/releases/download/2.0.0/progit-2.0.0.pdf)
