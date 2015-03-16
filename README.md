@@ -26,6 +26,10 @@
 
 ##Синхронизация форка
 
+1. Настроить upstream (один раз для локального репозитория): **git remote add upstream <адрес оригинального репозитория>**
+2. **git fetch upstream**
+3. **git merge upstream/master**
+
 [Читать тут](https://help.github.com/articles/syncing-a-fork/)
 
 ##Отправка изменений
